@@ -29,7 +29,7 @@
 ## 👨🏻‍💻 About the project
 
 <h1 align="center">
-	<img alt="Project Gif" src="https://github.com/eltonlazzarin/pwa-expo/blob/master/screenshots/pwaexpo.gif" hight="380" width="350" />
+	<img alt="Project Gif" src="https://github.com/eltonlazzarin/nubank-clone/blob/master/screenshots/nubankclone.gif" hight="380" width="350" />
 </h1>
 
 <p>Nubank is a company that uses technology and design to give people back control over their financial lives. In July 2020 it was elected the best bank in Brazil, so I decided to create this interface as a reference to the mobile application of this fintech.
