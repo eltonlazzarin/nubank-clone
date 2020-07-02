@@ -42,8 +42,8 @@ Technologies that I used to develop this frontend app
 - [TypeScript](https://www.typescriptlang.org)
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [Expo](https://expo.io/learn)
-- [Expo-Camera](https://docs.expo.io/versions/latest/sdk/camera)
-- [Expo-Device](https://docs.expo.io/versions/latest/sdk/device)
+- [Styled-Components](https://styled-components.com/docs/basics)
+- [React-Native-QRCode-SVG](https://www.npmjs.com/package/react-native-qrcode-svg)
 - [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## 💻 Getting started
