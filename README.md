@@ -32,7 +32,9 @@
 	<img alt="Project Gif" src="https://github.com/eltonlazzarin/pwa-expo/blob/master/screenshots/pwaexpo.gif" hight="380" width="350" />
 </h1>
 
-<p>PWA - In short, it is a web application with technologies that allows us to have the user experience very close to that offered by mobile apps. For that reason, I found the proposal interesting and in a weekend I decided to learn a little more about this technology and then I decided to develop a small application that lists my GitHub repositories and still access my camera via browser. For the creation of this PWA I used React Native in conjunction with Expo to facilitate creation in the environment and development of the application.</p>
+<p>Nubank is a company that uses technology and design to give people back control over their financial lives. In July 2020 it was elected the best bank in Brazil, so I decided to create this interface as a reference to the mobile application of this fintech.
+
+This clone project was developed in React Native & Expo, which helps a lot with regards to the speed of the initial setup of the project, in addition to other tools.</p>
 
 ## 🚀 Technologies
 
