@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Logo" src="https://github.com/eltonlazzarin/pwa-expo/blob/master/assets/icon.png" />
+	<img alt="Logo" src="https://github.com/eltonlazzarin/nubank-clone/blob/master/assets/icon.png" />
 </h1>
 
 <h3 align="center">
