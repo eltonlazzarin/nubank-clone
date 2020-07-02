@@ -50,8 +50,8 @@ Technologies that I used to develop this frontend app
 
 ### Requirements
 
-- [Node.js](https://nodejs.org/en/)
-- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com)
+- [Node.js](https://nodejs.org/en)
+- [Yarn](https://classic.yarnpkg.com) or [npm](https://www.npmjs.com)
 
 **Clone the project and access the folder**
 
