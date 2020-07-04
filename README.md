@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
 	<img alt="Logo" src="https://github.com/eltonlazzarin/nubank-clone/blob/master/assets/icon.png" />
 </h1>
 
